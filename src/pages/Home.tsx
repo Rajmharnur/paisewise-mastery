@@ -40,7 +40,7 @@ const testimonials = [
   {
     name: "Priya Sharma",
     role: "Software Engineer",
-    content: "PaiseWise helped me save ₹50,000 in just 6 months by tracking my expenses smartly!",
+    content: "Monarch Money helped me save ₹50,000 in just 6 months by tracking my expenses smartly!",
     rating: 5
   },
   {
@@ -74,7 +74,7 @@ export default function Home() {
                 <h1 className="text-4xl lg:text-6xl font-bold leading-tight animate-slide-in">
                   Save Smarter with{" "}
                   <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                    PaiseWise
+                    Monarch Money
                   </span>
                 </h1>
                 <p className="text-xl text-muted-foreground animate-fade-in animation-delay-200">
@@ -126,7 +126,7 @@ export default function Home() {
               <div className="absolute inset-0 gradient-primary opacity-20 blur-3xl rounded-full" />
               <img 
                 src={heroImage} 
-                alt="PaiseWise Financial Dashboard" 
+                alt="Monarch Money Financial Dashboard" 
                 className="relative w-full h-auto rounded-2xl shadow-medium hover:shadow-glow transition-all duration-500"
               />
             </div>
@@ -175,7 +175,7 @@ export default function Home() {
               Trusted by thousands of smart savers
             </h2>
             <p className="text-xl text-muted-foreground">
-              See how PaiseWise is helping people achieve their financial goals
+              See how Monarch Money is helping people achieve their financial goals
             </p>
           </div>
 
@@ -213,7 +213,7 @@ export default function Home() {
             Ready to transform your financial future?
           </h2>
           <p className="text-xl text-white/90 max-w-2xl mx-auto">
-            Join thousands who've already started their journey to financial freedom with PaiseWise.
+            Join thousands who've already started their journey to financial freedom with Monarch Money.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 

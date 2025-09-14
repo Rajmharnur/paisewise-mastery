@@ -35,7 +35,7 @@ export function Navigation() {
               <span className="text-white font-bold text-lg">₹</span>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              PaiseWise
+              Monarch Money
             </span>
           </Link>
 
